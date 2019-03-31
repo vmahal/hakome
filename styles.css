@@ -1,0 +1,55 @@
+.navbar{
+  background-color: #ffa45c;
+  margin-bottom: 20px;
+}
+
+.nav-link{
+  color:#11144c;
+}
+
+.left {
+  background-color: #ee4266;
+  text-align: center;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+h2{
+  font-family: cursive;
+  color: #fff;
+}
+
+.right{
+  background-color: #1f3c88;
+  text-align: center;
+  border-radius: 5px;
+  padding: 15px;
+
+}
+
+.inside_right{
+  background-color: #a6e3e9;
+  margin:20px 200px;
+  padding: 100px 0 110px 0;
+    border-radius: 5px;
+    color: #000;
+    font-family: cursive;
+}
+
+.leftarea{
+  margin: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#butt{
+  border-radius: 50px;
+}
+
+textarea{
+  padding-right: 5px;
+}
+
+p{
+  font-size: 40px;
+}
